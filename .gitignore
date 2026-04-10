@@ -1,0 +1,17 @@
+# IDE / editor
+.deepvcode/
+
+# Local agent/runtime state
+.omx/
+
+# Playwright MCP
+.playwright-mcp/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
